@@ -1,0 +1,4 @@
+---
+layout: redirect
+redirect_url: https://ayvacs.notion.site/ayvacs-games-backlog-b8643dbd911a42f4ba752f44f4957c07
+---
