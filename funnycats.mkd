@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://www.youtube.com/watch?v=0xqkksHov58&feature=youtu.be
+redirect_url: https://grabify.link/JMB5NF
 ---
